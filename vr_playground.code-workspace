@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "scripts"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onWindowChange"
+	}
+}
